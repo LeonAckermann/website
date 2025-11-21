@@ -25,12 +25,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.Breadcrumbs({
-      spacerSymbol: "❯", // symbol between crumbs
-      rootName: "Home", // name of first/root element
-      resolveFrontmatterTitle: true, // whether to resolve folder names through frontmatter titles
-      showCurrentPage: true, // whether to display the current page in the breadcrumbs
-})
   ],
   left: [
     Component.PageTitle(),
@@ -51,6 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.RecentNotes({ title: "Recent writing", limit: 5, showTags: false }),
   ],
 }
 
