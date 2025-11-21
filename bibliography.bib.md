@@ -1,4 +1,4 @@
-@inproceedings{ackermann-ohmer-2024-relationship,
+@article{ackermann-ohmer-2024-relationship,
     title = "On the Relationship between Skill Neurons and Robustness in Prompt Tuning",
     author = "Ackermann, Leon  and
       Ohmer, Xenia Isabel",
