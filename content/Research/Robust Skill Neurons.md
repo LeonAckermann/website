@@ -24,7 +24,7 @@ Neural Networks are powerful but of course, they also bring challenges. Two of t
 > Neural Networks have been notoriosly called *black boxes*. Interpretability seeks to find out what the learnt network internals represent and how they influence the output of the network
 
 # so what are robust skill neurons?
-The title of this post is **robust skill neurons**, so lets talk about them. Skill Neurons are specific neurons within the Feedforward network of the Transformer that show very high or very low activity associated to a specific input and output of the network [@ackermann-ohmer-2024-relationship]. Essentially, if those neurons don't function in the network, its performance would degrade drastically. They encode skill. Our research showed that when a network scores well when its tested for adversarial robustness, the same skill neurons are activated as when the input is not altered. In other words, the skill neurons do not only encode skill but also let the model be robust in new unseen scenarios. Tbc
+The title of this post is **robust skill neurons**, so lets talk about them. Skill Neurons are specific neurons within the Feedforward network of the Transformer that show very high or very low activity associated to a specific input and output of the network. Essentially, if those neurons don't function in the network, its performance would degrade drastically. They encode skill. Our research showed that when a network scores well when its tested for adversarial robustness, the same skill neurons are activated as when the input is not altered. In other words, the skill neurons do not only encode skill but also let the model be robust in new unseen scenarios. Tbc
 
 A little bit more
 
