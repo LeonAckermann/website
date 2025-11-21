@@ -92,6 +92,7 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages(),
     ],
   },
+  
 }
 
 export default config

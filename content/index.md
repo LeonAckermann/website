@@ -2,5 +2,9 @@
 title: Hello
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hello! I welcome you to my page.
+
+Here I write about my interests, studies and research projects.
+
+You can reach me at leonmax dot ackermann at gmail dot com.
+
