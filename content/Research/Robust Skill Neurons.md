@@ -6,7 +6,7 @@ tags:
 ---
 This is a write up of my first ever research project which was also my Bachelor Thesis.
 
-## Intro
+# Intro
 Back in 2023, I was interested in the Adversarial Robustness of Large Language Models or LLMs. ChatGPT just came out one year earlier in 2022 so the public was slowly noticing the fast progress in Deep Learning. In research, language modeling had been a concept for decades, just a little more than 70 years. 
 
 > [!info]- What is a language model?
