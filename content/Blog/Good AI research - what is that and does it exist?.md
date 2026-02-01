@@ -1,5 +1,5 @@
 ---
-title: AI Research without TESCREALism
+title: Good AI research - what is that and does it exist?
 draft: false
 tags:
   - tescreal
