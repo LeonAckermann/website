@@ -1,5 +1,5 @@
 ---
-title: Good AI research - what is that?
+title: Thoughts on AI research
 draft: false
 tags:
   - tescreal
