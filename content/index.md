@@ -8,7 +8,7 @@ My name is Leon and I'm a PhD Student at the Human-Centred Transformative AI Lab
 
 Previously, I completed my MSc in Computational Science at [Università della Svizzera italiana](https://www.usi.ch/en) and MSc in Computer Science and Applied Mathematics at [Sorbonne University](https://www.sorbonne-universite.fr/).
 
-I enjoy working on projects that democretize access and power over AI systems and seek to make AI systems more transparent and accountable.
+I enjoy working on projects that democratize access and power over AI systems and seek to make AI systems more transparent and accountable.
 
 Feel free to contact me on the channels listed [[Contact Me|here]].
 
