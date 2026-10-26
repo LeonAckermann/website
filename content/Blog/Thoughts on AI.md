@@ -1,5 +1,5 @@
 ---
-title: Thoughts on AI research
+title: Thoughts on AI
 draft: false
 tags:
   - tescreal

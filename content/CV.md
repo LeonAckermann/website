@@ -12,7 +12,7 @@ tags:
     - Computational Science, [Università della Svizzera italiana (USI)](https://www.usi.ch)
 - **2019 – 2023:** B.Sc. Cognitive Science, [Osnabrück University](https://www.uni-osnabrueck.de)
 
-## Papers
+## Publications
 
 - **Nov 2026:** Eijsbroek, V. C., **Ackermann, L.**, et al. [Multiple Methods for Visualizing Human Language: A Tutorial for Social and Behavioral Scientists](https://journals.sagepub.com/doi/10.1177/25152459261454622?_gl=1*1o1a671*_up*MQ..*_ga*NTk1MTg3Nzk3LjE3OTMwMjg0NzM.*_ga_60R758KFDG*czE3OTMwMjg0NzIkbzEkZzEkdDE3OTMwMjg2MTQkajE1JGwxJGg4Mjc4NjU2NzY.) Advances in Methods and Practices in Psychological Science
 - **Dec 2024:** **Ackermann, L.**, et al. [On the Transferability of Parameter-Efficient Continual Learning for Vision Transformers](https://openreview.net/pdf?id=s8tjQ3dWFP). NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability.
