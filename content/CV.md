@@ -6,7 +6,7 @@ tags:
 
 ## Education
 
-- **2026 – Ongoing:** PhD in Human-Centered Transformative AI Lab (HTAIL) at [Hasso Plattner Institute](https://hpi.de)
+- **2026 – Ongoing:** PhD at Human-Centered Transformative AI Lab (HTAIL) at [Hasso Plattner Institute](https://hpi.de)
 - **2024 – 2026:** Triple Master's degree
     - Computer Science & Applied Mathematics, [Sorbonne Université](https://www.sorbonne-universite.fr)
     - Computational Science, [Università della Svizzera italiana (USI)](https://www.usi.ch)
@@ -24,14 +24,14 @@ tags:
 
 ## Experience
 
-- **Mar 2026 – Aug 2026:** Master Thesis Intern, [Institut Pasteur](https://www.pasteur.fr) & [Paris Brain Institute](https://www.institutducerveau-icm.org)
-- **Apr 2024 – Sep 2024:** Machine Learning Working Student, [Hasso Plattner Institut](https://hpi.de)
+- **Mar 2026 – Aug 2026:** Master Thesis Intern, [Institut Pasteur](https://www.pasteur.fr) & [Paris Brain Institute](https://www.institutducerveau-icm.org), Paris, France
+- **Apr 2024 – Sep 2024:** Machine Learning Working Student, [Hasso Plattner Institut](https://hpi.de), Potsdam, Germany
 - **Jun 2024 – Aug 2024:** Machine Learning Intern, [Cyber Information Security Lab, CCU](https://www.ccu.edu.tw), Taiwan
-- **Oct 2023 – Mar 2024:** Computational Linguistics Research Intern, [Harmony Research Group](https://harmonyresearchgroup.com/)
+- **Oct 2023 – Mar 2024:** Computational Linguistics Research Intern, [Harmony Research Group](https://harmonyresearchgroup.com/), Lund, Sweden
 
 ## Volunteer Work
 
-- **2024**: AI Tutor, [KI macht Schule](https://www.ki-macht-schule.de/)
+- **2024**: AI Tutor, [KI macht Schule](https://www.ki-macht-schule.de/), Berlin, Germany
 
 
   
