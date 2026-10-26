@@ -11,8 +11,6 @@ Previously, I completed my MSc in Computational Science at [Università della Sv
 I enjoy working on projects that democretize access and power over AI systems and seek to make AI systems more transparent and accountable.
 
 Feel free to contact me on the channels listed [[Contact Me|here]].
-My CV is available at [View paper](/assets/my-paper.pdf)
-
 
 ## News
 

@@ -1,6 +1,6 @@
 ---
 title: AI is getting rogue?
-draft: false
+draft: true
 tags:
   - ai
 ---
